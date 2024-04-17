@@ -1,0 +1,2 @@
+Git reset hash hard (elimina todo)
+soft (slimina todo, excepto los archivos dek area de preparacion)
